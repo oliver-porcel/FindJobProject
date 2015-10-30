@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Encuentra Trabajo</string>
+    <string name="post_menu_text">Postear Trabajo</string>
+    <string name="sync_menu_text">Sincronizar</string>
+    <string name="tv_title">Título</string>
+    <string name="tv_description">Descripción</string>
+    <string name="tv_contact">Contactos</string>
+    <string name="btn_post">Postear</string>
+    <string name="title_post_new">Postear Nuevo</string>
+    <string name="title_job_detail">Detalle del Trabajo</string>
+    <string name="title_contacts">Contactos</string>
+    <string name="dialog_title">Trabajo Guardado</string>
+    <string name="dialog_message">El trabajo se ha guardado correctamente!</string>
+    <string name="dialog_button">Volver a la lista</string>
+    <string name="dialog__error_title">Error</string>
+    <string name="dialog_error_message">El trabajo no se ha guardado correctamente!</string>
+    <string name="contact_message">Introducir varios números de contacto separados por: ","</string>
+</resources>

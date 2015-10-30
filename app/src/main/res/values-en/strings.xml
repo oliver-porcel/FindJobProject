@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find Job</string>
+    <string name="post_menu_text">Post Job</string>
+    <string name="sync_menu_text">Sync Up</string>
+    <string name="tv_title">Title</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_contact">Contacts</string>
+    <string name="btn_post">Post</string>
+    <string name="title_post_new">Post New Job</string>
+    <string name="title_job_detail">Job Details</string>
+    <string name="title_contacts">Contactos</string>
+    <string name="dialog_title">Job Saved</string>
+    <string name="dialog_message">The job has been introduced succesfully!</string>
+    <string name="dialog_button">Go back to the list</string>
+    <string name="dialog__error_title">Error</string>
+    <string name="dialog_error_message">The job is not entered succesfully!</string>
+    <string name="contact_message">Enter several contact numbers separated by: ","</string>
+</resources>

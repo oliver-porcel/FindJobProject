@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sync"
+        android:orderInCategory="1"
+        yourapp:showAsAction="never"
+        android:title="@string/sync_menu_text"
+        />
+    <item
+        android:id="@+id/post"
+        android:orderInCategory="2"
+        yourapp:showAsAction="never"
+        android:title="@string/post_menu_text"
+        />
+</menu>
